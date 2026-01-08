@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environments
+venv/
+.venv/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Caches / artifacts
+data/cache/
+results/
+*.npy
+*.joblib
+
+# Audio (usually too large)
+data/audio/
+
+# Local configs
+*.log

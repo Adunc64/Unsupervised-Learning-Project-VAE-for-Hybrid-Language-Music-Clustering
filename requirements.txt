@@ -1,0 +1,24 @@
+# Core
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+jupyter
+
+# Audio processing
+librosa
+pydub
+
+# Deep Learning
+torch
+torchvision
+torchaudio
+
+# Clustering & Visualization
+umap-learn
+hdbscan
+
+# Utilities
+tqdm
+python-dotenv
