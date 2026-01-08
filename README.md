@@ -11,6 +11,16 @@ This repository implements an end-to-end pipeline for unsupervised representatio
 
 ## Setup
 
+NB:## Dataset (Audio not included)##
+The `data/audio/` folder is not tracked in this repository because it is ~1.23GB.
+-> Go to https://www.kaggle.com/datasets/andradaolteanu/gtzan-dataset-music-genre-classification
+-> Download the data
+-> Rename the "genres_original" folder name to "audio"
+-> Move the "audio" folder inside the "data" folder inside the project folder 
+-> Place it like this:
+data/audio/<genre>/<track.wav>
+
+
 ### 1) Create a virtual environment (recommended)
 bash
 python -m venv venv
